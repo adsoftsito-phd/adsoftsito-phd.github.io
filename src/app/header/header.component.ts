@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class HeaderComponent {
 
+ nombre : string = "fake name";
+ titulo: string = "fake PhD";
+ objetivo: string = "fake goal";
+ foto: string = "fake photo";
+ email: string = "fake email";
+ celular: string = "fake cel";
+ ubicacion: string = "fake city";
+ redsocial: string = "fake social"; 
+
 }
